@@ -94,6 +94,5 @@ ChadLLM/
 
 ---
 
-*Créé avec passion - Juillet 2026*
-```
+## Créé avec passion - Juillet 2026
 
