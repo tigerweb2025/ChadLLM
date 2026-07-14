@@ -1,5 +1,14 @@
-text
+# Environnement virtuel Python
 venv/
+
+# Fichiers cache Python
 __pycache__/
-data/
+*.pyc
+
+# Fichiers de données générés et lourds (on garde le corpus.txt visible)
+data/vocabulaire.json
+data/*.pth
 *.pth
+
+# Fichiers système
+.DS_Store
