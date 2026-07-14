@@ -1,4 +1,4 @@
-```markdown
+markdown
 # 🤖 ChadLLM - Mon Premier LLM From Scratch
 
 **ChadLLM** est un mini-modèle de langage (LLM) construit entièrement de zéro (from scratch) à des fins pédagogiques.
@@ -27,7 +27,6 @@ cd ChadLLM
 ```
 
 ### 2. Créer l'environnement virtuel
-
 ```bash
 python -m venv venv
 ```
